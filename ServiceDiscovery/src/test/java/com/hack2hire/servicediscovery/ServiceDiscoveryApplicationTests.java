@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class ServiceDiscoveryApplicationTests {
-
+//updated comment
 	@Test
 	void contextLoads() {
 	}
